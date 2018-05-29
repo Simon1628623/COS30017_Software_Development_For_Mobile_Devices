@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Appear on screen-->
+    <item
+        android:id="@+id/action_addFuelUp"
+        android:icon="@mipmap/ic_gas"
+        android:title="@string/add_fuel_up"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_addBike"
+        android:icon="@mipmap/ic_mbike"
+        android:title="@string/add_bike"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/wipe_data"
+        android:title="@string/wipe_motorcycle_information"
+        android:orderInCategory="5"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/wipe_gps"
+        android:title="@string/wipe_gps_data"
+        android:orderInCategory="6"
+        app:showAsAction="never"/>
+
+</menu>

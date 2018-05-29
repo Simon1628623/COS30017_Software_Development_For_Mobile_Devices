@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sat Oct 01 16:04:14 AEST 2016
+2.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\assets\\debug\\au_locations.txt
+5.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v4\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\assets\\debug
+3.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment5\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\sunpic.png
+0.set=ASSET

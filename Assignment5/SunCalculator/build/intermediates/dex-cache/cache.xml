@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dea78c678daeb5d58a76d940b1287063c19df8e2">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42bc4474308c93c6225ff53ba37026a9a081e861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="29a514f6a9e2086322efdb60ec57874b6641eb71">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4f548b398e3079afec1ee84e1aa91755489472af\classes.dex" />
+    </item>
+
+</items>

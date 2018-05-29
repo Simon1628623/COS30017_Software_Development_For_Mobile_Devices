@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_bdd043ccb62f4214f391a9a493635736b53a3d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_ea966c89368c142b8ec6bd36984c7a79303a89e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="149fd3dc78fdae6a31cfdb0fe8d6a28c974eeac3">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_61305bdf66c508146216de3e03387f3db496362b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4cdde7e748eeee554ce631d9cded8bfb8ca42a44">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42bc4474308c93c6225ff53ba37026a9a081e861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0cceed752b6aa71487f9d7f369c7eef8ca31bb2">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment6\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30f021659f512d1f01b671d9ae0eb46d897d3397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="288c992bc4e7c0af5283f36250d6955d835cee7e">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment5\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4f548b398e3079afec1ee84e1aa91755489472af\classes.dex" />
+    </item>
+
+</items>

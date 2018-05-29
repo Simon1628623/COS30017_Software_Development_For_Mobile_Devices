@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>243</x>
+      <y>18</y>
+      <w>189</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>Fuel Up
+Class
+--
+-Bike: Motorcycle
+-Odometer: Long
+-FuelAmount: Double
+-PriceperLitre: Double
+-OctaneRating: Enum{91, 95, 98}
+-Date: Date
+-Lat: Latitude
+-Long: Longitude
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>738</x>
+      <y>0</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Motorcycle
+Class
+--
+-Odometer: Long
+-Make: String
+-Model: String
+-FuelTank: Double
+-Year: Integer
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>495</x>
+      <y>9</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Main Activity
+--
+-FuelStatsFragment
+-AddFuelUpFragment
+-AddBikeFragment
+-WeatherFragment
+-MapsFragment
+-TableFragment
+-Action Bar
+--
+-Motorcycle List
+-FuelUp List
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>783</x>
+      <y>405</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Fuel Statistics Fragment
+--
+-Average Fuel Consumption
+-Average Distance before empty tank
+-Last Fuel Consumption
+-Amount of Fuel Ups
+-Best Fuel Consumption
+-Distance Tracked
+-cost per km
+-cost per km for 91 octane
+-cost per km for 98 octane
+--
+Spinner for different Motorcycles</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>414</y>
+      <w>207</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Weather Fragment
+--
+-Displays weather for current 
+position and surrounding area
+
+-Has option to change date
+
+-Integrated with google weather resource
+
+-Shows Bureau of Meteorology 
+map of rainfall</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>414</y>
+      <w>189</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Table Fragment
+--
+-FuelUp List 
+--
+-Displays all the raw data 
+about fuelup
+eg L/100km, Distance, 
+Octane, Fuel Amount, 
+Price, Date
+--
+-Spinner to select bike</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>261</x>
+      <y>414</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Maps Fragment
+--
+-FuelUp Statistics List
+--
+-Google Maps Integration
+-Lists all the Previously 
+visited Petrol Stations
+With Fuel Consumption tagged
+-Shows all petrol stations 
+saved on google maps
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>495</x>
+      <y>207</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Navigation 
+Action Bar
+--
+Context Menu/on bar if room
+-Add FuelUp
+-Add Bike
+-Settings
+--
+Spinner with Fragments
+-Weather
+-Table
+-Fuel Stats
+-Maps</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>216</x>
+      <y>198</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Add Bike Fragment
+--
+-Motorcycle
+--
+-Contains text boxes and 
+spinners for filing out information
+-Submit Button to save information </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>738</x>
+      <y>198</y>
+      <w>189</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>Add FuelUp Fragment
+--
+-FuelUp
+--
+-Contains text boxes and 
+spinners for filing out information
+-Submit Button to save information </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>531</x>
+      <y>333</y>
+      <w>90</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>80.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>558</x>
+      <y>351</y>
+      <w>243</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>250.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>441</x>
+      <y>369</y>
+      <w>72</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>198</x>
+      <y>324</y>
+      <w>315</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;100.0;330.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>396</x>
+      <y>270</y>
+      <w>117</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;30.0;110.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>567</x>
+      <y>261</y>
+      <w>189</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>190.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>576</x>
+      <y>171</y>
+      <w>27</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>585</x>
+      <y>0</y>
+      <w>171</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>170.0;10.0;10.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>423</x>
+      <y>18</y>
+      <w>90</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>567</x>
+      <y>153</y>
+      <w>189</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;190.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>279</x>
+      <y>135</y>
+      <w>234</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>240.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+</diagram>

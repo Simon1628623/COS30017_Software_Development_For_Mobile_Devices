@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StringExternalisation</string>
+    <string name="hello"> Welcome to my app </string>
+</resources>

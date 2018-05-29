@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Oct 18 17:18:52 AEDT 2016
+2.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listrow.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\ratings.txt
+0.set=ANDROID_RESOURCE

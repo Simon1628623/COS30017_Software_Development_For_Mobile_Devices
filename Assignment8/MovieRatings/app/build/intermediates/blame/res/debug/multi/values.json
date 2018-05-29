@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\MovieRatings\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]

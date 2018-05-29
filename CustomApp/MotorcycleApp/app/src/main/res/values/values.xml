@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bike_makes">
+        <item>Honda</item>
+        <item>Suzuki</item>
+        <item>Yamaha</item>
+        <item>Kawasaki</item>
+    </string-array>
+
+    <string-array name="fuel_octane">
+        <item>91</item>
+        <item>95</item>
+        <item>98</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\StaticClock\StaticClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b79a2ca28e8fd16bcf62dabe941d39a08258197">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\StaticClock\StaticClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_37979ebedfb2fc73d30ca9151b0cef0907dda9d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\StaticClock\StaticClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bb34789112e2cf9da7e97edf20fb10feb741cdba">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\StaticClock\StaticClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d5576bf1401ced4950f1e5fe15b3e42a7e7e2e2\classes.dex" />
+    </item>
+
+</items>

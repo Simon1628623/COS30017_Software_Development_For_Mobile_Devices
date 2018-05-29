@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>50</y>
+      <w>260</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>MySql / Text Document
+--
+-Contains all the data for the application</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>350</x>
+      <y>440</y>
+      <w>210</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>Fuel Up
+Class
+--
+-Bike: Motorcycle
+-Odometer: Long
+-FuelAmount: Double
+-PriceperLitre: Double
+-OctaneRating: Enum{91, 95, 98}
+-Date: Date
+-Lat: Latitude
+-Long: Longitude
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>600</x>
+      <y>440</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>Motorcycle
+Class
+--
+-Odometer: Long
+-Make: String
+-Model: String
+-FuelTank: Double
+-Year: Integer
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>590</x>
+      <y>190</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>Motorcycles.txt/Motorcycles Table
+--
+-M: Motorcycle List
+--
+-Will contain all the 
+information in the Motorcycle Classes
+-Will Calculate and store 
+extra information
+--
+Update Odometer 
+based on fuelups
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>370</x>
+      <y>190</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>FuelUp.txt/FuelUp Table
+--
+-FU: FuelUp List
+--
+-Will contain all the 
+information in the fuelUp Class
+-Will Calculate and store 
+extra information
+--
+Litres per 100km
+Price per kilometre
+Distance Traveled
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>120</y>
+      <w>50</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;70.0;30.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>620</x>
+      <y>120</y>
+      <w>80</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>60.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>670</x>
+      <y>370</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>450</x>
+      <y>370</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>

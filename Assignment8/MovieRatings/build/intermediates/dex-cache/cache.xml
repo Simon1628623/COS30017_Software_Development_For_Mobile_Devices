@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment8\MovieRatings\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="495117aa8cd809065c0ebe3a49659dc85a08ac05">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment8\MovieRatings\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c20ee8de354fafec7c1f8e7b79dc9ad2651e9ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment8\MovieRatings\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="797a004746cdd7d1975121558bbcf794439e3118">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment8\MovieRatings\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4685af464dc5603a2d38c44ccc4d1acb2703fe6d\classes.dex" />
+    </item>
+
+</items>

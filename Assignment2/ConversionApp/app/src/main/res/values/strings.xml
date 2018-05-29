@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="miles">Miles</string>
+    <string name="feet">Feet</string>
+    <string name="inches">Inches</string>
+    <string name="metres">Metres</string>
+    <string name="temp">Celsius to Fahrenheit</string>
+    <string name="measurement">Imperial to Metric</string>
+    <string name="mainTitle">Conversion App!</string>
+    <string name="celcius">Celcius:</string>
+    <string name="_000f">000F</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="263348497450204"
+    token="-6424578916239701755" >
+
+    <task
+        name="javac"
+        duration="1268" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="116" />
+    <task
+        name="verifier"
+        duration="28" />
+
+    <artifact
+        location="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\StaticClock\StaticClock\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="263348497450204" >
+        <artifact
+            location="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\StaticClock\StaticClock\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

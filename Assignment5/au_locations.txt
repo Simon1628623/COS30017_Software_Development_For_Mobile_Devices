@@ -1,0 +1,101 @@
+Whyalla,-33.03333,137.58333,Australia/Adelaide
+Roebourne,-20.78333,117.13333,Australia/Perth
+Perth,-31.93333,115.83333,Australia/Perth
+Murray Bridge,-35.11667,139.26667,Australia/Adelaide
+Mount Isa,-20.73333,139.5,Australia/Brisbane
+Morphett Vale,-35.13333,138.51667,Australia/Adelaide
+Mandurah,-32.55,115.7,Australia/Perth
+Kwinana,-32.25,115.76667,Australia/Perth
+Kalgoorlie,-30.75,121.46667,Australia/Perth
+Gosnells,-32.08333,116,Australia/Perth
+Geraldton,-28.76667,114.6,Australia/Perth
+Gawler,-34.6,138.73333,Australia/Adelaide
+Darwin,-12.46113,130.84185,Australia/Darwin
+Bunbury,-33.33333,115.63333,Australia/Perth
+Alice Springs,-23.7,133.88333,Australia/Darwin
+Albany,-35.01694,117.89167,Australia/Perth
+Adelaide,-34.93333,138.6,Australia/Adelaide
+Sydney,-33.86785,151.20732,Australia/Sydney
+Surfers Paradise,-28.00274,153.42999,Australia/Brisbane
+Sunnybank,-27.58333,153.05,Australia/Brisbane
+Port Stephens,-32.6966,152.06348,Australia/Sydney
+Southport,-27.96667,153.4,Australia/Brisbane
+South Grafton,-29.7,152.95,Australia/Sydney
+Rockhampton,-23.38333,150.5,Australia/Brisbane
+Queanbeyan,-35.35,149.23333,Australia/Sydney
+Quakers Hill,-33.73333,150.88333,Australia/Sydney
+Port Macquarie,-31.43333,152.91667,Australia/Sydney
+Orange,-33.28333,149.1,Australia/Sydney
+Nowra,-34.88333,150.6,Australia/Sydney
+Newcastle,-32.92715,151.77647,Australia/Sydney
+Nerang,-27.98333,153.33333,Australia/Brisbane
+Mount Gambier,-37.83333,140.76667,Australia/Adelaide
+Mosman,-33.82778,151.23333,Australia/Sydney
+Mooloolaba,-26.68333,153.11667,Australia/Brisbane
+Melbourne,-37.814,144.96332,Australia/Melbourne
+Maryborough,-25.53333,152.7,Australia/Brisbane
+Marrickville,-33.91667,151.16667,Australia/Sydney
+Maroubra,-33.95,151.23333,Australia/Sydney
+Mackay,-21.15,149.2,Australia/Brisbane
+Liverpool,-33.9,150.93333,Australia/Sydney
+Lismore,-28.81354,153.2773,Australia/Sydney
+Launceston,-41.45,147.16667,Australia/Hobart
+Katoomba,-33.7,150.3,Australia/Sydney
+Hornsby,-33.70244,151.09931,Australia/Sydney
+Hobart,-42.87936,147.32941,Australia/Hobart
+Griffith,-34.28333,146.03333,Australia/Sydney
+Greensborough,-37.70462,145.10302,Australia/Melbourne
+Granville,-33.83333,151.01667,Australia/Sydney
+Goulburn,-34.75,149.71667,Australia/Sydney
+Gold Coast,-28,153.43333,Australia/Brisbane
+Gladstone,-23.85,151.25,Australia/Brisbane
+Geelong West,-38.13333,144.35,Australia/Melbourne
+Geelong,-38.14711,144.36069,Australia/Melbourne
+Frankston East,-38.13333,145.13333,Australia/Melbourne
+Forster,-32.16667,152.51667,Australia/Sydney
+Epping,-33.77271,151.08184,Australia/Sydney
+Engadine,-34.06667,151.01667,Australia/Sydney
+Echuca,-36.13333,144.75,Australia/Sydney
+Earlwood,-33.95,151.1,Australia/Sydney
+Dubbo,-32.25,148.61667,Australia/Sydney
+Devonport,-41.16667,146.35,Australia/Hobart
+Deception Bay,-27.2,153.03333,Australia/Brisbane
+Cronulla,-34.05,151.15,Australia/Sydney
+Cranbourne,-38.1,145.28333,Australia/Melbourne
+Craigieburn,-37.6,144.95,Australia/Melbourne
+Coffs Harbour,-30.3,153.13333,Australia/Brisbane
+Wollongong,-34.43333,150.88333,Australia/Sydney
+Cessnock,-32.83333,151.35,Australia/Sydney
+Castle Hill,-33.73333,151,Australia/Sydney
+Carlingford,-33.78269,151.04888,Australia/Sydney
+Caringbah,-34.05,151.13333,Australia/Sydney
+Canberra,-35.28346,149.12807,Australia/Sydney
+Caloundra,-26.8,153.13333,Australia/Brisbane
+Cairns,-16.91667,145.76667,Australia/Brisbane
+Caboolture,-27.08333,152.95,Australia/Brisbane
+Burnie,-41.06667,145.91667,Australia/Hobart
+Bundaberg,-24.85,152.35,Australia/Brisbane
+Buderim,-26.68333,153.05,Australia/Brisbane
+Brunswick,-37.76667,144.96667,Australia/Melbourne
+Broken Hill,-31.95,141.43333,Australia/Broken_Hill
+Brisbane,-27.46794,153.02809,Australia/Brisbane
+Blacktown,-33.76667,150.91667,Australia/Sydney
+Bendigo,-36.76667,144.28333,Australia/Melbourne
+Banora Point,-28.21298,153.53634,Australia/Sydney
+Ballarat,-37.56667,143.85,Australia/Melbourne
+Armidale,-30.51667,151.65,Australia/Sydney
+Albury,-36.08333,146.91667,Australia/Sydney
+South Brisbane,-27.48333,153.01667,Australia/Brisbane
+Randwick,-33.91667,151.24167,Australia/Sydney
+Dee Why,-33.75,151.3,Australia/Sydney
+Palmerston,-12.48602,130.9833,Australia/Darwin
+Rainbow Beach,-25.90432,153.09174,Australia/Brisbane
+North Shore,-31.40237,152.90185,Australia/Sydney
+Hoppers Crossing,-37.88264,144.7003,Australia/Melbourne
+Logan City,-27.63917,153.10944,Australia/Brisbane
+Carindale,-27.50578,153.10236,Australia/Brisbane
+Paramatta,-33.8178,151.00348,Australia/Sydney
+Ferntree Gully,-37.88461,145.29539,Australia/Melbourne
+Adelaide Hills,-34.91118,138.70735,Australia/Adelaide
+Canning Vale,-32.05798,115.91814,Australia/Perth
+Glenmore Park,-33.79068,150.6693,Australia/Sydney

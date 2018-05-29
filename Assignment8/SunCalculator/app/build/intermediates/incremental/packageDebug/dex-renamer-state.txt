@@ -1,0 +1,7 @@
+#Mon Oct 17 16:59:10 AEDT 2016
+base.0=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb49bde515d4f15d30eba0006295c802efab7d16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b10329337929932bc90b6386afdecb7e702eecd6\\classes.dex
+base.1=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b10329337929932bc90b6386afdecb7e702eecd6
+file.0=C\:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb49bde515d4f15d30eba0006295c802efab7d16\\classes.dex

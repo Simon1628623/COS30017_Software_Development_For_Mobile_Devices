@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Simonor\\Documents\\Swinburne\\SoftwareDevMobiles\\Assignment8\\SunCalculator\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

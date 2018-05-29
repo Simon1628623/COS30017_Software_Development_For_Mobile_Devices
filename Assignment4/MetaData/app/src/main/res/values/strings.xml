@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MetaDataApp</string>
+    <string name="name">Name:</string>
+    <string name="url">URL:</string>
+    <string name="keywords">Keywords</string>
+    <string name="date">Date:</string>
+    <string name="share">Share?</string>
+    <string name="source_email">Source Email:</string>
+    <string name="rating">Rating:</string>
+    <string name="save">Save</string>
+</resources>

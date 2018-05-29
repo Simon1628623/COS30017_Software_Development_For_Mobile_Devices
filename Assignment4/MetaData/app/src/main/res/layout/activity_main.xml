@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.simonor.metadataapp.MainActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:stretchColumns="*"
+            android:shrinkColumns="*"
+            >
+
+        <!-- first row of the table layout-->
+            <TableRow
+            android:id="@+id/firstRow"
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/name1"
+                    style="@style/Base.TextAppearance.AppCompat.Headline" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/name2"
+                    style="@style/Base.TextAppearance.AppCompat.Headline" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/secondRow"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/date1"
+                    style="@style/Base.TextAppearance.AppCompat.Small" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/date2"
+                    style="@style/Base.TextAppearance.AppCompat.Small" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/thirdRow"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="18dip"
+            android:layout_weight="1"
+            android:id="@+id/imageButton"
+            android:src="@drawable/i1"
+                    android:contentDescription="p1" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="18dip"
+            android:layout_weight="1"
+            android:id="@+id/imageButton2"
+            android:src="@drawable/i2"
+            android:contentDescription="p2" />
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/fourthRow"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/name3"
+                    style="@style/Base.TextAppearance.AppCompat.Headline" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/name4"
+                    style="@style/Base.TextAppearance.AppCompat.Headline" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/fifthRow"
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/date3"
+                    style="@style/Base.TextAppearance.AppCompat.Small" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Medium Text"
+                    android:id="@+id/date4"
+                    style="@style/Base.TextAppearance.AppCompat.Small" />
+            </TableRow>
+        <TableRow
+            android:id="@+id/sixthRow"
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="18dip"
+            android:layout_weight="1"
+            android:id="@+id/imageButton3"
+            android:src="@drawable/i3"
+            android:contentDescription="p3" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="18dip"
+            android:layout_weight="1"
+            android:id="@+id/imageButton4"
+            android:src="@drawable/i4"
+            android:contentDescription="p4" />
+</TableRow>
+</TableLayout>
+    </LinearLayout>
+</RelativeLayout>

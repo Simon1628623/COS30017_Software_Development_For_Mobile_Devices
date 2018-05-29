@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\LifeCycle\LifeCycle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b67e545a094f19a283d79d3c21fc622f6feff8c3">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\LifeCycle\LifeCycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_944b8648c6e0c74a301d1857c514ad3fa5f989bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\LifeCycle\LifeCycle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="761cf09677b9051a4d8270b8584f9eb1e8fd1e92">
+        <dex dex="C:\Users\Simonor\Documents\Swinburne\SoftwareDevMobiles\Assignment2\LifeCycle\LifeCycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_54adf3bfdd0194f57c7a4c341a73be2bea4def38\classes.dex" />
+    </item>
+
+</items>

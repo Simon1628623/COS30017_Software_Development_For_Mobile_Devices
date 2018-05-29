@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MotorcycleApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gps">GPS feature loaded</string>
+    <string name="add_fuel_up">Add Fuel Up</string>
+    <string name="add_bike">Add Bike</string>
+    <string name="settings">Settings</string>
+    <string name="wipe_motorcycle_information">Wipe Motorcycle Information</string>
+    <string name="wipe_gps_data">Wipe GPS Data</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="odometer">Odometer</string>
+    <string name="cost_per_litre">Cost Per Litre</string>
+    <string name="litres">Litres</string>
+    <string name="fuel_rating">Fuel Rating</string>
+</resources>

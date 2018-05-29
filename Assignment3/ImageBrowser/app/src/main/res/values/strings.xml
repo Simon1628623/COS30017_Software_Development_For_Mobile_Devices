@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageBrowser</string>
+    <string name="katsucurry">katsucurry</string>
+    <string name="pho">pho</string>
+    <string name="taco">taco</string>
+    <string name="hamburger">hamburger</string>
+    <string name="user_selected">User selected</string>
+</resources>

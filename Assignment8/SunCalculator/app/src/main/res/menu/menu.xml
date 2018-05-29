@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Appear on screen-->
+    <item
+        android:id="@+id/action_Location"
+        android:icon="@mipmap/ic_location"
+        android:title="Change Location"
+        app:showAsAction="always"
+        android:orderInCategory="1"
+        app:actionViewClass="android.widget.Spinner"
+        />
+
+    <item
+        android:id="@+id/menu_item_share"
+        android:title="Share"
+        android:icon="@mipmap/ic_share"
+        android:orderInCategory="2"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        app:showAsAction="always" />
+        <!--
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        -->
+
+
+    <item
+        android:id="@+id/action_addLocation"
+        android:icon="@mipmap/ic_addlocation"
+        android:title="Add Location"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_addDefaultLocations"
+        android:title="Add Default Locations"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,14 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 15
+        versionCode 1
+        versionName "1.0"
+        applicationId "swin.examples.LifeCycle"
+    }
+}
